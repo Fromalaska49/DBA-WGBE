@@ -1,0 +1,1 @@
+These scripts are being created and used to validate genuine data and identify junk data.
