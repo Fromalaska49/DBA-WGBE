@@ -35,6 +35,7 @@ while($record = mysqli_fetch_array($result)){
 	$website = $record['url'];
 	$first_name = '';
 	$last_name = '';
+	
 	$email = $record['EMAILADDRESS'];
 }
 
